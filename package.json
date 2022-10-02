@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.0.0",
+    "jssoup": "^0.0.15",
+    "sqlite3": "^5.0.11"
+  },
+  "devDependencies": {
+    "nexe": "^4.0.0-rc.1"
+  }
+}
