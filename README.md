@@ -7,11 +7,13 @@ Automatically port data from the Japanese Dokkan Database to a SQL patch applica
 - Automatic port of JP cards by comparing the two databases
 - Automatic port of JP EZAs by comparing the two databases
 - misc.sql file with the following tables : card_awakening_sets,effect_packs
+- French GUI
 
 # Coming soon : 
 - Automatic items/awakening items port
 - Assets port
-- Support of other languages (such as French)
+- Support of other languages (such as French) for translations
+- Support of other languages (English, Spanish) for GUI
 
 # Contact 
 Discord : discord.gg/dokkanfr
