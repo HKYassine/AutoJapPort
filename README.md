@@ -20,5 +20,5 @@ Discord : discord.gg/dokkanfr
 HK#4598
 Feel free to send me a DM if you have any question related to this project.
 
-\*The databases are not included in this project. I'm not gonna give them or explain how to get them, no need to DM me.
+\*The databases are not included in this project.
 
